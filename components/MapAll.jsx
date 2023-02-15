@@ -14,7 +14,7 @@ import {
   material,
   INITIAL_VIEW_STATE,
   colorRange,
-} from "../lib/mapConfig.js";
+} from "../lib/mapconfig.js";
 
 function getTooltip({ object }) {
   if (!object) {
