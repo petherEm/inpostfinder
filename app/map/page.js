@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState, useEffect } from "react";
-import MapAll from "../../components/mapAll";
+import MapAll from "../../components/MapAll";
 
 const Map = () => {
   const [details, setDetails] = useState([]);
